@@ -1,5 +1,6 @@
-# Removed FQDN so .onion URL would display properly
-#baseURL = "https://jasonmurray.org/"
+# Removed FQDN so .onion URL would display properly, however it breaks the sitemap.xml
+# Not sure what to do about this yet?
+# baseURL = "https://jasonmurray.org/"
 baseURL = "/"
 
 languageCode = "en-us"
