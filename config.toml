@@ -1,7 +1,8 @@
-# Removed FQDN so .onion URL would display properly, however it breaks the sitemap.xml
-# Not sure what to do about this yet?
-# baseURL = "https://jasonmurray.org/"
-baseURL = "/"
+# FQDN basename
+baseURL = "https://jasonmurray.org/"
+# FQDN breaks .onion URL, but no FQDN breaks RSS and sitemap URLS.  Commented out.
+# Very few, if any, people use the .onion URL.
+# baseURL = "/"
 
 languageCode = "en-us"
 defaultContentLanguage = "en"
