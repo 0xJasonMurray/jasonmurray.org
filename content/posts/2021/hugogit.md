@@ -1,6 +1,6 @@
 ---
 title: "Using git as a historical time machine for jasonmurray.org"
-date: 2021-02-06T18:54:28-06:00
+date: 2021-02-07T11:54:28-06:00
 toc: false
 images:
 categories:
