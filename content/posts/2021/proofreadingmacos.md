@@ -31,4 +31,4 @@ By default `option + esc` starts speaking.  Change the command sequence by click
 
 To start reading, highlight the text and press `option + ESC`.  MacOS will read the highlighted text.  Depending on the application, the current word is highlighted in yellow as it is read.  Yes, it helped catch the error in this paragraph:
 
-![](/images/2021-02-07-10-19-35.png)
+![Image of macOS reading a draft blog post](/images/2021-02-07-10-19-35.png)
