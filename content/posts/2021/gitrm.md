@@ -9,6 +9,10 @@ tags:
   - git
 ---
 
+## Overview
+
+Running `git rm <file>` without the `--cached` option will delete files from a `git` repository **and** the local file system.  To remove files from a `git` repository **only**, use the `--cached` command line argument.
+
 ## Locate and remove a single file
 
 Locate files to remove:
