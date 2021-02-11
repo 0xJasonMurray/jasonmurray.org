@@ -91,7 +91,17 @@ My first new years resolution.  Rebuild my daily driver laptop.
   - vscode
     - Login with GitHub account
     - Enable Configuration Sync
-    - Install Markdown All in one, Python, Spell Right, and Paste Image extensions
+    - Extensions:
+      - Markdown All in One
+      - Python
+      - Spell Right
+      - Paste Image extensions
+      - Foam for VSCode
+      - GitHub Pull Requests and Issues
+      - GitLens - Git supercharged
+      - Jupyter
+      - Markdown Notes
+      - markdownlink
   - Ansible
     - `python3 -m venv .venv && source .venv/bin/activate && pip install --upgrade pip && pip install ansible`
  - Firefox
