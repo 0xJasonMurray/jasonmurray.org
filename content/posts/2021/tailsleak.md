@@ -1,5 +1,5 @@
 ---
-title: "Caution: MAC address information leaked when booting Tails Linux on a MacBook Pro"
+title: "Caution: MAC address information leaked when booting Tails Linux on a MacBook Pro (not Tails fault)"
 date: 2021-02-11T12:34:47-06:00
 toc: false
 images:
