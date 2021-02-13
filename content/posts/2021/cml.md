@@ -16,13 +16,13 @@ description: Guide to the download, installation, configuration, and initial lab
 
 ## Overview
 
-Cisco Modeling Lab is a commercial network virtualization environment. All routers, switches, and security devices are self contained within the CML system.  CML differs from other offerings such as [GNS3](https://www.gns3.com/) or [Eve-NG](https://www.eve-ng.net/) by including legal Cisco software images and licenses as part of the purchased bundle.  The software costs approximately $200 per year for the [personal edition](https://learningnetworkstore.cisco.com/cisco-modeling-labs-personal/cisco-cml-personal) which allows up to 20 simultaneous devices.  
+[Cisco Modeling Lab](https://www.cisco.com/c/en/us/products/cloud-systems-management/modeling-labs/index.html) is a commercial network virtualization environment. All routers, switches, and security devices are self contained within the CML system.  CML differs from other offerings such as [GNS3](https://www.gns3.com/) or [Eve-NG](https://www.eve-ng.net/) by including legal Cisco software images and licenses as part of the purchased bundle.  The software costs approximately $200 per year for the [personal edition](https://learningnetworkstore.cisco.com/cisco-modeling-labs-personal/cisco-cml-personal) which allows up to 20 simultaneous devices.  
 
 While the minimum system requirements are 4 CPUs, 8Gb RAM, and 16Gb HD; this won't be enough to run 20 routers at the same time.  Expect to spend a few thousand dollars on hardware capable of simulating a real production network.  This is not software that will run well on a typical consumer laptop.  
 
 ## Details  
 
-Start by downloading the CML software.  As noted before, this is not free software.  Cisco is charging $200 per year for the personal edition:
+Start by downloading the CML software.  As noted before, it's not free.  Cisco is charging $200 per year for the personal edition:
 
 ```
 https://learningnetworkstore.cisco.com/myaccount
@@ -36,7 +36,7 @@ For new installations, download the latest 2.1.2 version:
 
 ![Download screen](/images/2021-02-12-16-01-40.png)
 
-In addition to the CMLS software, the `Personal Reference Platform` ISO image is required during the installation.  This software is not found in the 2.1.2 download screen.  At the time of this writing, `PRP` is in the 2.0 download section:
+In addition to the CML software, the `Personal Reference Platform` ISO image is required during the installation.  This software is not found in the 2.1.2 download screen.  At the time of this writing, `PRP` is in the 2.0 download section:
 
 ![2.0 download section of the personal reference platform download](/images/2021-02-12-16-01-59.png)
 
@@ -48,7 +48,7 @@ When the installation begins, the `Personal Reference Platform` ISO image must b
 
 ![uploading refplat](/images/2021-02-12-16-16-01.png)
 
-Validate the `PRF` image successfully uploaded:
+Validate the `PRF` image uploaded successfully:
 
 ![datastore browswer with refplat uploaded](/images/2021-02-12-16-48-08.png)
 
@@ -74,7 +74,7 @@ Watch the system build for a few minutes:
 
 Before CML boots for the first time, change the `CPU`, `Memory`, and `Disk` settings.  Minimum requirements are `4`, `8G`, and `16G` respectively.  However, modeling devices of any scale will require significantly more resources.  Add as much as possible.
 
-The `Personal Reference Platform` ISO DVD must be mounted and configured to `Connect` at startup.  If the DVD is not connected, the Cisco routers and switches images will not install:
+The `Personal Reference Platform` ISO DVD must be mounted and configured to `Connect` at startup.  If the DVD is not connected, the Cisco router and switch images will not install:
 
 ![adjust settings before powering on](/images/2021-02-12-16-53-30.png)
 
@@ -98,7 +98,7 @@ Information about screen navigation and shortcuts:
 
 ![Information about screen navigation and shortcuts](/images/2021-02-12-14-43-07.png)
 
-If the DVD is not mounted during the installation, the following error will display.  The installation will not have the Cisco router and switch images if this error is not resolved.  Edit settings and `Connect` the DVD image:
+If the DVD is not mounted during installation, the following error will display.  The installation will not have the Cisco router and switch images if this error is not resolved.  Edit settings and `Connect` the DVD image:
 
 ![missing disk](/images/2021-02-12-14-43-38.png)
 
@@ -110,7 +110,7 @@ Create `admin` account:
 
 ![create admin acccount](/images/2021-02-12-14-51-29.png)
 
-Once the installation is complete, the console displays the IP address necessary to access the web interface:
+Once installation is complete, the console displays the IP address necessary to access the web interface:
 
 ![Console booted up with IP address](/images/2021-02-12-18-39-02.png)
 
@@ -126,7 +126,7 @@ Open the license menu `Tools -> Licensing`:
 
 ![](/images/2021-02-12-14-56-50.png)
 
-The license key is found from the Cisco website `https://learningnetworkstore.cisco.com/myaccount`.  Select the `2.0 Licensee` and copy the string:
+The license key is found on the Cisco website `https://learningnetworkstore.cisco.com/myaccount`.  Select the `2.0 Licensee` and copy the string:
 
 ![Purchase and license screen](/images/2021-02-12-16-07-48.png)
 
@@ -138,7 +138,7 @@ Paste in the license code:
 
 ![Paste in the license code](/images/2021-02-12-14-58-15.png)
 
-Status will change to `Authorized` once the key has been validated with the Cisco licensing server:
+Status will change to `Authorized` once the key is validated with the Cisco licensing server:
 
 ![license success](/images/2021-02-12-14-58-53.png)
 
