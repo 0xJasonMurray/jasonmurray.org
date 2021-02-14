@@ -30,6 +30,7 @@ description: What am I doing right now?
   - Currently reading:
     - Being Geek
     - American Kingpin
+    - Recursion
   - Recently finished (2021):
     - Why Buddhism is True
     - Being Mortal
