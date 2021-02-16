@@ -102,6 +102,7 @@ My first new years resolution.  Rebuild my daily driver laptop.
       - Jupyter
       - Markdown Notes
       - markdownlink
+      - ToDo+
   - Ansible
     - `python3 -m venv .venv && source .venv/bin/activate && pip install --upgrade pip && pip install ansible`
  - Firefox
