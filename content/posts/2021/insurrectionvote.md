@@ -1,5 +1,5 @@
 ---
-title: "The senators who voted to acquit Donald Trump during his second impeachment trail"
+title: "The senators who voted to acquit Donald Trump during his second impeachment trial"
 date: 2021-02-14T10:44:32-06:00
 toc: false
 images:
