@@ -9,11 +9,9 @@ tags:
   - laptop
   - rebuild
 ---
-
 # Overview
 
-My first new years resolution.  Rebuild my daily driver laptop.   
-
+My first new years resolution.  Rebuild my daily driver laptop.
 
 # Rebuild Details
 
