@@ -11,7 +11,7 @@ tags:
 description: The Murray's took family photos for the first time in 23 years.  Here is your sneak preview.
 ---
 
-My wife and I have been married for 23 years, our kids have been around for 15+ years. In all these years, we've never had professional family photos taken. Until today when [H.WellmeierPhotography](https://www.facebook.com/h.wellmeierphotography) met us on one of these rare Missouri days when the air is chilly and there is snow on the ground. 
+My wife and I have been married for 23 years, our kids have been around for 15+ years. In all this time, we've never had professional family photos taken. Until today, when [H.WellmeierPhotography](https://www.facebook.com/h.wellmeierphotography) met us on one of these rare Missouri days when the air is chilly and there is snow on the ground. 
 
 Until the final proofs are in, here’s a few behind the scene photos from my cell phone:
 
