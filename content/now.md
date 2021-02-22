@@ -29,9 +29,10 @@ description: What am I doing right now?
 - Reading or listening to books:
   - Currently reading:
     - Being Geek
+    - Hitchhikers Guide to the Galaxy (No, I have never read this book before)
+  - Recently finished (2021):
     - American Kingpin
     - Recursion
-  - Recently finished (2021):
     - Why Buddhism is True
     - Being Mortal
     - A Promised Land
@@ -39,5 +40,5 @@ description: What am I doing right now?
     - Becoming
 - Nerdy stuff:
   - My hobby life revolves around Internet technology.  
-  - I spend a lot of time tinkering in my home lab.
+  - I spend a lot of time tinkering in my [home lab](/posts/2020/homelab/).
 - Write something every day for this website.
