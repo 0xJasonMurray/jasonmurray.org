@@ -1,7 +1,6 @@
 ---
 title: "How I tune out noise and sleep through the night."
 date: 2021-02-21T13:20:55-06:00
-draft: true
 toc: false
 images:
 categories:
