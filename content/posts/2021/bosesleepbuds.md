@@ -1,5 +1,5 @@
 ---
-title: "How I tune out noise and sleep through the night."
+title: "How I tune out noise and sleep through the night"
 date: 2021-02-21T13:20:55-06:00
 toc: false
 images:
@@ -15,7 +15,7 @@ description: How I tune out noise and sleep through the night with Bose Sleepbud
 
 ## The Problem
 
-Any noise, no matter how subtle, is enough to keep me from falling asleep or jarring enough to wake me up. It's not uncommon to wake up five or more times per evening. Once awake, the animals wrestling, bed mate snoring, neighbors running amuck, or creaky house noises kept me from the slumber my body desperately needs. On a good night, I may fall back asleep in 15 to 30 minutes. However, it's more common for the thoughts churning around my head to keep the melatonin at bay, forcing me to lie awake for 60+ minutes.
+Any noise, no matter how subtle, is enough to keep me from falling asleep or jarring enough to wake me up. It's not uncommon to wake up five or more times per evening. Once awake, the animals wrestling, bed mate snoring, neighbors running amuck, or creaky house noises keep me from the slumber my body desperately needs. On a good night, I may fall back asleep in 15 to 30 minutes. However, it's more common for the thoughts churning around my head to keep the melatonin at bay, forcing me to lie awake for 60+ minutes.
 
 ## Options
 
