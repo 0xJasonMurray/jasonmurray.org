@@ -11,7 +11,7 @@ tags:
   - sleepbuds
   - sleep
   - noise
-description: How I tune out the noise and sleep through the night with Bose Sleepbud II's.
+description: How I tune out noise and sleep through the night with Bose Sleepbud II's.
 ---
 
 ## The Problem
