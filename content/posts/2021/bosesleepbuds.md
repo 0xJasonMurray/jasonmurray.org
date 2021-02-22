@@ -29,10 +29,10 @@ Spend time with your favorite search engine querying for `sound blocking ear plu
 
  I am not sure where I first ran across the [Bose Sleepbuds 2](https://www.bose.com/en_us/products/wellness/noise_masking_sleepbuds/noise-masking-sleepbuds-ii.html#v=noise_masking_sleepbuds_ii_white), but the slim profile looked promising for a side sleeper. The online reviews were mixed. I found a quite a few positive reviews and a fair amount of complaints of ear pain after an entire evening of use. At $250, this is not an inexpensive solution. The negative reviews from side sleepers had me concerned, but the free return policy left me with nothing to loose.
 
-A few clicks and a few days later, these arrived:
+A few clicks and a some days later, these arrived:
 [![Image of Bose Sleepbud in ear](/images/IMG_1414.jpeg)](/images/IMG_1414.jpeg)
 
-It is hard to tell from the pictures, these devices are tiny. If it is not already obvious, I am not a head or ear model. The pictures are here to help you understand how puny the Sleepbuds are in the ear:
+It is hard to tell from the pictures, these devices are tiny. I know you are wondering, who is the sexy old man in these pictures? Yes, it is me. No, I am not a head or ear model, but thanks for asking. The pictures are here to help you understand how puny the Sleepbuds are in the ear:
 
 [![Image of Bose Sleepbud in ear](/images/IMG_1549.jpeg)](/images/IMG_1549.jpeg)
 
