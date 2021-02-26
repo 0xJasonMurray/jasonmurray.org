@@ -1,6 +1,6 @@
 ---
 title: "Basic IS-IS Level2 Only Cisco Lab Configuration"
-date: 2021-02-25T10:42:28-06:00
+date: 2021-02-26T10:42:28-06:00
 toc: false
 images:
 categories:
