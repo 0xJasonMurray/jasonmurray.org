@@ -16,7 +16,7 @@ description: Guide to the download, installation, configuration, and initial lab
 
 ## Overview
 
-[Cisco Modeling Lab](https://www.cisco.com/c/en/us/products/cloud-systems-management/modeling-labs/index.html) is a commercial network virtualization environment. All routers, switches, and security devices are self contained within the CML system.  CML differs from other offerings such as [GNS3](https://www.gns3.com/) or [Eve-NG](https://www.eve-ng.net/) by including legal Cisco software images and licenses as part of the purchased bundle.  The software costs approximately $200 per year for the [personal edition](https://learningnetworkstore.cisco.com/cisco-modeling-labs-personal/cisco-cml-personal) which allows up to 20 simultaneous devices.  
+[Cisco Modeling Lab](https://www.cisco.com/c/en/us/products/cloud-systems-management/modeling-labs/index.html) is a commercial network virtualization environment. All routers, switches, and security devices are licensed and included within the CML system.  CML differs from other offerings such as [GNS3](https://www.gns3.com/) or [Eve-NG](https://www.eve-ng.net/) by including legal Cisco software images and licenses as part of the purchased bundle.  The software costs approximately $200 per year for the [personal edition](https://learningnetworkstore.cisco.com/cisco-modeling-labs-personal/cisco-cml-personal) which allows up to 20 simultaneous devices.  
 
 While the minimum system requirements are 4 CPUs, 8Gb RAM, and 16Gb HD; this won't be enough to run 20 routers at the same time.  Expect to spend a few thousand dollars on hardware capable of simulating a real production network.  This is not software that will run well on a typical consumer laptop.  
 
