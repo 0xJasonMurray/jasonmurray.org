@@ -29,8 +29,9 @@ description: What am I doing right now?
 - Reading or listening to books:
   - Currently reading:
     - Being Geek
-    - Hitchhikers Guide to the Galaxy (No, I have never read this book before)
+    - The Darkest Web (not sure about this book yet, it is bit too dark even for me)
   - Recently finished (2021):
+    - Hitchhikers Guide to the Galaxy (No, I have never read this book before)
     - American Kingpin
     - Recursion
     - Why Buddhism is True

@@ -37,7 +37,8 @@ Each router is built with a configuration similar to the one below.
   - 0000 — Area ID
   - 0000.0000.0000 — System identifier (unique for each device, typically in an IP address format)
   - 00 — Selector
-- `metric-style wide` - Allows for greater flexibility when traffic engineering
+- `is-type level-2-only` - All routers behave like a `backbone` router allowing communication with other areas if needed.
+- `metric-style wide` - Allows for greater flexibility when traffic engineering.
 - `ip router isis labisis` - Enable `is-is` on a network interface.
 
 ```text
