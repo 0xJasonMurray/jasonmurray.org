@@ -1,5 +1,5 @@
 ---
-title: "Enabled bridged external connectivity with Cisco Modeling Lab on ESXi server"
+title: "Enabling external connectivity in Cisco Modeling Labs with bridged networks running on an ESXi hypervisor"
 date: 2021-03-01T13:33:12-06:00
 toc: false
 images:
