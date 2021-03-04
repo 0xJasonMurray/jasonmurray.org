@@ -1,7 +1,6 @@
 ---
 title: "Using BGP peer-groups on Cisco routers"
 date: 2021-03-04T06:02:38-06:00
-draft: true
 toc: false
 images:
 categories:
@@ -10,12 +9,12 @@ tags:
   - cisco
   - bgp
   - networking
-description:
+description: BGP `peer-groups` consolidate common configuration items to a single statement.  Eliminating the need to unnecessarily duplicate configuration on each neighbor.
 ---
 
 ## Overview
 
-BGP `peer-groups` consolidate common sets of configuration items to a single statement.  Eliminating the need to unnecessarily duplicate configuration on each neighbor. In the example topology below, there are 4 `ibgp` neighbors per router, each sharing 2 lines of configuration.  By using `peer-groups` we eliminate 4 lines from the `bgp` configuration. In addition, if new lines or changes are required, a single change will update all neighbors.
+BGP `peer-groups` consolidate common configuration items to a single statement.  Eliminating the need to unnecessarily duplicate configuration on each neighbor. In the example topology below, there are 4 `ibgp` neighbors per router, each replicating the same two lines.  By using `peer-groups` we eliminate 4 lines from the `bgp` configuration. In addition, if new lines or updates are required, a single change will update all neighbors.
 
 `ibgp` full mesh between all routers:
 

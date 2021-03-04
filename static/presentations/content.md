@@ -1,6 +1,6 @@
 class: center, middle
 
-# Title
+# How to Create Slides with Markdown and Remark
 
 ---
 
