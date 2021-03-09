@@ -29,7 +29,7 @@ jemurray@jasons-mbp:~/Documents/www-personal/current/jasonmurray.org $ mkdir sta
 jemurray@jasons-mbp:~/Documents/www-personal/current/jasonmurray.org $
 ```
 
-In the newly created directory, add a `index.html` file with the Remark scripts to load the slide show content:
+In the newly created directory, add an `index.html` file with the Remark scripts to load the slide show content:
 
 ```
 <!DOCTYPE html>
