@@ -14,6 +14,17 @@ class: center, middle
 
 # Introduction
 
+Lists:
+
 - foo
 - bar
 - baz
+
+---
+# Display Code Blocks
+
+```terminal
+#!/usr/bin/env python3
+
+print("Hello World!")
+```
