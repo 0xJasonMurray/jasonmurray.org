@@ -18,10 +18,11 @@ Leverage my extensive leadership, architecture, engineering, and operations expe
 
 ## Application Experience (not all-inclusive):
 * Operating Systems: Apple (OSX, IOS), Android, BSD, Cisco (Catalyst, IOS, NX-OS), GNU/Linux, HP, JunOS, Microsoft, Solaris, SunOS
-* Virtualization Technologies: AWS, Solaris Containers, VirtualBox, VMware
+* Virtualization Technologies: AWS, Azure, Docker, GCP, Solaris Containers, VirtualBox, VMware
 * System Hardware: Arista, Cisco, Dell, HP, Juniper, Sun, Xiotech, x86
-* Core Server and Networking Protocols: arp, bgp, dhcp, dns, ethernet, ftp, hsrp, http, icmp, imap, ip, ipsec, ldp, mpls, nat, nfs, nis, nnrp, nntp, ntp, ospf, pcap, pop3, ppp, radius, sip, smtp, snmp, stp, ssh, ssl, tcp, tftp, udp, vlan, vpn, vrrp
-* Programming Languages: Ansible, C, Perl, PHP, Puppet, Python, shell, SQL, x86 assembly
+* Core Server and Networking Protocols: arp, bgp, dhcp, dns, ethernet, ftp, hsrp, http, icmp, imap, ip, ipsec, ldp, mpls, nat, nfs, nis, nnrp, nntp, ntp, ospf, pcap, pop3, ppp, radius, sip, smtp, snmp, stp, ssh, ssl, tcp, tftp, udp, vlan, vpn, vrrp, vxlan
+* Programming Languages: C, Perl, PHP, Python, shell, SQL, x86 assembly
+* Automation Languages and Frameworks: Ansible, Napalm, Netmiko, Nornir, Puppet, Python, RESTful
 
 ## Employment History:
 
