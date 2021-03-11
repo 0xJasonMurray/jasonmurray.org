@@ -112,6 +112,7 @@ My first new years resolution.  Rebuild my daily driver laptop.
  - Wireshark
  - Duet
  - Etcher
+ - Postman
 
 
 ## Post Installation Notes:
