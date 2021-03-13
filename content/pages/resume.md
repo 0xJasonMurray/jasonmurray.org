@@ -6,7 +6,7 @@ draft: false
 
 ## Objective
 
-Leverage my extensive leadership, architecture, engineering, and operations experience to develop strategic direction and enable teams of highly motivated engineers in delivering exceptional quality Internet services in large complex environments. My principal areas of interest include large research institutions or innovative organizations involved in disruptive Internet technology.
+Leverage my extensive leadership, architecture, engineering, and operations experience to develop strategic direction and enable teams of highly motivated engineers to deliver exceptional quality Internet services in large complex environments. My principal areas of interest include large research institutions or innovative organizations involved in disruptive Internet technology.
 ## Executive Summary
 
 * Over 25 years of experience with designing, implementing, and maintaining large scale server, network, wireless, and security services.
