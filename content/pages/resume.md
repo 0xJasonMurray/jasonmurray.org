@@ -6,7 +6,7 @@ draft: false
 
 ## Objective
 
-Leverage my extensive leadership, architecture, engineering, and operations experience in leading, designing, and maintaining system, network, security, wireless, and software solutions to deliver high-quality Internet services to a broad range of users.
+Leverage my extensive leadership, architecture, engineering, and operations experience to develop strategic direction and enable teams of highly motivated engineers in delivering exceptional quality Internet services in large complex environments. My principal areas of interest include large research institutions or innovative organizations involved in disruptive Internet technology.
 ## Executive Summary
 
 * Over 25 years of experience with designing, implementing, and maintaining large scale server, network, wireless, and security services.
@@ -22,7 +22,7 @@ Leverage my extensive leadership, architecture, engineering, and operations expe
 * Operating Systems: Apple (macOS, iOS), Android, BSD, Cisco (Catalyst, IOS, NX-OS), GNU/Linux, HP, JunOS, Microsoft, Solaris, SunOS
 * Virtualization Technologies: Docker, Solaris Containers, VirtualBox, VMware
 * Cloud Providers: AWS, Azure, Digital Ocean, Linode, Google Cloud
-* System Hardware: Arista, Cisco, Dell, HP, Infoblox, Juniper, Sun, Xiotech, x86
+* System Hardware: Arista, Cisco, Dell, HP, Infoblox, Juniper, Meraki, Sun, Xiotech, x86
 * Core Server and Networking Protocols: arp, bgp, dhcp, dns, ethernet, ftp, git, hsrp, http, icmp, imap, ip, ipsec, is-is, ldp, mp-bgp, mpls, nat, nfs, nis, nnrp, nntp, ntp, ospf, pcap, pop3, ppp, radius, sip, smtp, snmp, stp, ssh, ssl, tcp, tftp, udp, vlan, vpn, vrrp, vxlan
 * Programming Languages: C, Perl, PHP, Python, shell, SQL, x86 assembly
 * Automation Languages and Frameworks: Ansible, Napalm, Netmiko, Nornir, Puppet, Python, RESTful
