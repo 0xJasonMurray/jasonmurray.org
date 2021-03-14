@@ -70,6 +70,7 @@ My first new years resolution.  Rebuild my daily driver laptop.
     - mosh
     - gpg
     - jq
+    - python-yq
   - LastPass (macOS and plugins)
     - Allow LastPass to monitor input from keyboard
   - iTerm2
@@ -113,6 +114,7 @@ My first new years resolution.  Rebuild my daily driver laptop.
  - Duet
  - Etcher
  - Postman
+ - imagemagick
 
 
 ## Post Installation Notes:
