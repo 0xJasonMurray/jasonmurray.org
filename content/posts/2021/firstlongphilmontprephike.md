@@ -1,7 +1,6 @@
 ---
 title: "Philmont training hike #2: Lone Elk Park"
 date: 2021-03-14T16:42:09-05:00
-draft: true
 toc: false
 images:
 categories:
