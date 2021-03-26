@@ -115,6 +115,7 @@ My first new years resolution.  Rebuild my daily driver laptop.
  - Etcher
  - Postman
  - imagemagick
+ - Microsoft Remote Desktop
 
 
 ## Post Installation Notes:
