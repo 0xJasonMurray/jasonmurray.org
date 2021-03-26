@@ -1,7 +1,6 @@
 ---
 title: "Juniper fxp0 management interface"
 date: 2021-03-26T11:04:05-05:00
-draft: true
 toc: false
 images:
 categories:
