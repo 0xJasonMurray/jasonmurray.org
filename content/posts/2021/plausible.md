@@ -1,5 +1,5 @@
 ---
-title: "Adding plausable.io analytics to Hugo"
+title: "Adding plausible.io analytics to Hugo"
 date: 2021-03-31T14:03:54-05:00
 toc: false
 images:
@@ -9,7 +9,7 @@ tags:
   - hugo
   - plausable
   - git
-description: Adding plausable.io analytics to Hugo
+description: Adding plausible.io analytics to Hugo
 ---
 
 ## Overview
