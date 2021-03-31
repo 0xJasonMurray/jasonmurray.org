@@ -1,7 +1,6 @@
 ---
 title: "Adding plausable.io analytics to Hugo"
 date: 2021-03-31T14:03:54-05:00
-draft: true
 toc: false
 images:
 categories:
