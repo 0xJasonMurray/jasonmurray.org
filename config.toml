@@ -9,7 +9,11 @@ defaultContentLanguage = "en"
 
 title = "Jason Murray"
 
-theme = "hermit"
+theme = ["hermit", "plausible-hugo"]
+
+[params.plausible]
+  enable = true  # Whether to enable plausible tracking
+  domain = "jasonmurray.org"  # Plausible "domain" name/id in your dashboard
 
 # enableGitInfo = true
 pygmentsCodefences  = true
