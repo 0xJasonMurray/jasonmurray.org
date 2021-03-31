@@ -7,7 +7,7 @@ categories:
   - tech
 tags: 
   - hugo
-  - plausable
+  - plausible
   - git
 description: Adding plausible.io analytics to Hugo
 ---
