@@ -14,6 +14,7 @@ theme = ["hermit", "plausible-hugo"]
 [params.plausible]
   enable = true  # Whether to enable plausible tracking
   domain = "jasonmurray.org"  # Plausible "domain" name/id in your dashboard
+  public_dashboard = true
 
 # enableGitInfo = true
 pygmentsCodefences  = true
