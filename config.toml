@@ -16,6 +16,9 @@ theme = ["hermit", "plausible-hugo"]
   domain = "jasonmurray.org"  # Plausible "domain" name/id in your dashboard
   public_dashboard = true
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
