@@ -1,7 +1,6 @@
 ---
 title: "Render raw html in HUGO markdown files"
 date: 2021-04-02T06:32:30-05:00
-draft: true
 toc: false
 images:
 categories:
