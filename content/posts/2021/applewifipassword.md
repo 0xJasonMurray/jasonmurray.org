@@ -31,3 +31,4 @@ Once the `Share Password` button is pressed, the iPad automatically connects and
 [![Image of iOS iPad wifi](/images/IMG_1984.PNG)](/images/IMG_1984.PNG)
 
 
+
