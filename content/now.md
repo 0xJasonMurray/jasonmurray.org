@@ -30,8 +30,8 @@ description: What am I doing right now?
   - Currently reading:
     - Being Geek
     - The Darkest Web (not sure about this book yet, it is bit too dark even for me)
-    - Wild
   - Recently finished (2021):
+    - Wild
     - Dark Matter
     - Ready Player Two
     - Hitchhikers Guide to the Galaxy (No, I have never read this book before)
