@@ -71,6 +71,7 @@ My first new years resolution.  Rebuild my daily driver laptop.
     - gpg
     - jq
     - python-yq
+    - iperf3
   - LastPass (macOS and plugins)
     - Allow LastPass to monitor input from keyboard
   - iTerm2

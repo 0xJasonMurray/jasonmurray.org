@@ -30,6 +30,7 @@ description: What am I doing right now?
   - Currently reading:
     - Being Geek
     - The Darkest Web (not sure about this book yet, it is bit too dark even for me)
+    - Evil Geniuses: The Unmaking of America
   - Recently finished (2021):
     - Wild
     - Dark Matter
