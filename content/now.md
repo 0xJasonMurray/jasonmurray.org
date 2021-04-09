@@ -25,13 +25,13 @@ description: What am I doing right now?
 # Hobbies
 
 - Run, walk, or strength train everyday.
-  - I cut back running significantly because of Osgood-Schlatter disease.  Hopefully PT will fix the problem.
+  - I cut back running significantly because of Osgood-Schlatter disease. PT and limited miles is slowly helping, but not fast enough. Running was a big part of my daily routine.
 - Reading or listening to books:
   - Currently reading:
     - Being Geek
-    - The Darkest Web (not sure about this book yet, it is bit too dark even for me)
     - Evil Geniuses: The Unmaking of America
   - Recently finished (2021):
+    - The Darkest Web (far too dark, most people don't need to know this exists on the Internet)
     - Wild
     - Dark Matter
     - Ready Player Two
