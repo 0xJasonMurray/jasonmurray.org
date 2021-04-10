@@ -24,7 +24,7 @@ Leverage my extensive leadership, architecture, engineering, and operations expe
 * Cloud Providers: [AWS](/tags/aws/), Azure, Digital Ocean, Linode, Google Cloud
 * System Hardware: [Arista](/tags/arista/), [Cisco](/tags/cisco/), Dell, HP, [Infoblox](/tags/infoblox/), [Juniper](/tags/juniper/), [Meraki](/tags/meraki/), Sun, Xiotech, x86
 * Core Server and Networking Protocols: [arp](/tags/arp/), [bgp](/tags/bgp/), [dhcp](/tags/dhcp/), [dns](/tags/dns/), [ethernet](/tags/ethernet/), ftp, [git](/tags/git), hsrp, [http](/tags/https), [icmp](/tags/icmp), imap, [ip](/tags/ip/), ipsec, [is-is](/tags/isis), [ldp](/tags/ldp/), mp-bgp, [mpls](/tags/mpls/), [nat](/tags/nat/), nfs, nis, nnrp, nntp, [ntp](/tags/ntp), ospf, pcap, pop3, ppp, radius, sip, smtp, snmp, stp, [ssh](/tags/ssh), [ssl](/tags/ssl/), tcp, tftp, udp, vlan, vpn, vrrp, vxlan
-* Programming Languages: C, Perl, PHP, [Python](/tags/python), [shell](/tags/bash/), SQL, [x86 assembly](/tags/assembly)
+* Programming Languages: C, Perl, PHP, [Python](/tags/python), [shell](/tags/bash/), SQL, [TCL](/tags/tcl/), [x86 assembly](/tags/assembly)
 * Automation Languages and Frameworks: [Ansible](/tags/ansible), [Napalm](/tags/napalm), [Netmiko](/tags/netmiko), [Nornir](/tags/nornir), Puppet, [Python](/tags/python), [RESTful](/tags/restful)
 
 ## Employment History
