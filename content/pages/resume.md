@@ -19,19 +19,19 @@ Leverage my extensive leadership, architecture, engineering, and operations expe
 
 ## Experience Summary (not all-inclusive)
 
-* Operating Systems: Apple (macOS, iOS), Android, BSD, Cisco (Catalyst, IOS, NX-OS), GNU/Linux, HP, JunOS, Microsoft, Solaris, SunOS
-* Virtualization Technologies: Docker, Solaris Containers, VirtualBox, VMware
-* Cloud Providers: AWS, Azure, Digital Ocean, Linode, Google Cloud
-* System Hardware: Arista, Cisco, Dell, HP, Infoblox, Juniper, Meraki, Sun, Xiotech, x86
-* Core Server and Networking Protocols: arp, bgp, dhcp, dns, ethernet, ftp, git, hsrp, http, icmp, imap, ip, ipsec, is-is, ldp, mp-bgp, mpls, nat, nfs, nis, nnrp, nntp, ntp, ospf, pcap, pop3, ppp, radius, sip, smtp, snmp, stp, ssh, ssl, tcp, tftp, udp, vlan, vpn, vrrp, vxlan
-* Programming Languages: C, Perl, PHP, Python, shell, SQL, x86 assembly
-* Automation Languages and Frameworks: Ansible, Napalm, Netmiko, Nornir, Puppet, Python, RESTful
+* Operating Systems: [Apple](/tags/apple/) ([macOS](/tags/macos/), [iOS](/tags/ios/), Android, BSD, [Cisco](/tags/cisco/) (Catalyst, IOS, NX-OS), [GNU/Linux](/tags/linux/), HP, [JunOS](/tags/juniper/), Microsoft, Solaris, SunOS
+* Virtualization Technologies: [Docker](/tags/docker/), Solaris Containers, VirtualBox, VMware
+* Cloud Providers: [AWS](/tags/aws/), Azure, Digital Ocean, Linode, Google Cloud
+* System Hardware: [Arista](/tags/arista/), [Cisco](/tags/cisco/), Dell, HP, [Infoblox](/tags/infoblox/), [Juniper](/tags/juniper/), [Meraki](/tags/meraki/), Sun, Xiotech, x86
+* Core Server and Networking Protocols: [arp](/tags/arp/), [bgp](/tags/bgp/), [dhcp](/tags/dhcp/), [dns](/tags/dns/), [ethernet](/tags/ethernet/), ftp, [git](/tags/git), hsrp, [http](/tags/https), [icmp](/tags/icmp), imap, [ip](/tags/ip/), ipsec, [is-is](/tags/isis), [ldp](/tags/ldp/), mp-bgp, [mpls](/tags/mpls/), [nat](/tags/nat/), nfs, nis, nnrp, nntp, [ntp](/tags/ntp), ospf, pcap, pop3, ppp, radius, sip, smtp, snmp, stp, [ssh](/tags/ssh), [ssl](/tags/ssl/), tcp, tftp, udp, vlan, vpn, vrrp, vxlan
+* Programming Languages: C, Perl, PHP, [Python](/tags/python), [shell](/tags/bash/), SQL, [x86 assembly](/tags/assembly)
+* Automation Languages and Frameworks: [Ansible](/tags/ansible), [Napalm](/tags/napalm), [Netmiko](/tags/netmiko), [Nornir](/tags/nornir), Puppet, [Python](/tags/python), [RESTful](/tags/restful)
 
 ## Employment History
 
 
 **Infrastructure Architect**\
-**Washington University in St. Louis**\
+**[Washington University in St. Louis](https://wustl.edu/)**\
 **April 2016 to present**
 
 * Responsible for developing and leading the holistic network strategy across an academic and medical campus with 3000+ routers and switches, 5000+ access points, 20+ firewalls and VPN appliances, and 100K unique devices.
@@ -42,7 +42,7 @@ Leverage my extensive leadership, architecture, engineering, and operations expe
 * Evangelist for process automation, open protocol standards, and API first data exchange.
 
 **Sr. Network and Systems Engineer**\
-**Washington University in St. Louis**\
+**[Washington University in St. Louis](https://wustl.edu/)**\
 **December 2005 to April 2016**
 
 * Redesigned all Unix systems with an emphasis on single service, stability, and security; eliminating frequent outages and security incidents.
@@ -58,7 +58,7 @@ Leverage my extensive leadership, architecture, engineering, and operations expe
 * Designed and implemented centralized email security scanning and routing system; eliminating almost all unwanted spam and virus-infected email.
 
 **Sr. Systems and Network Administrator**\
-**XO Communications, St. Louis Missouri**\
+**[XO Communications, St. Louis Missouri](https://xo.com/)**\
 **December 1995 to December 2005**
 
 * Technical lead over systems and networking team.
@@ -70,7 +70,7 @@ Leverage my extensive leadership, architecture, engineering, and operations expe
 
 ## Volunteer Experience
 
-**Zion Lutheran School**\
+**[Zion Lutheran School](https://zionharvester.org/school/)**\
 **June 2009 to present**
 
 * Designed wired and wireless networks based on Cisco Meraki hardware to be reliable, scalable, and simple to manage.
@@ -85,10 +85,10 @@ Leverage my extensive leadership, architecture, engineering, and operations expe
 
 ## Education
 
-### **Saginaw Valley State University, University Center, Michigan**
+### **[Saginaw Valley State University](https://svsu.edu/), University Center, Michigan**
 
 Bachelor of Science, 1993 - 1998\
-Major: Computer Information Systems; GPA 3.46 / 4.0 (honors)\
+Major: [Computer Information Systems](/images/svsudiploma.jpeg); GPA 3.46 / 4.0 (honors)\
 Minor: Business Management
 
 ## References
