@@ -9,6 +9,13 @@ tags:
   - mpls
   - presentations
   - networking
+  - speaking
+  - cisco
+  - juniper
+  - arista
+  - zeek
+  - vrf
+  - nexus
 description: A journey through the Washington University in St. Louis "One Campus Project", the birth of our MPLS network, and the adoption and adaptation of security controls from the National Institute of Standards and Technology (NIST)
 ---
 
