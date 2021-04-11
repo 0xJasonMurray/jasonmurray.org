@@ -10,9 +10,9 @@ tags: [about]
 
 ![family](/images/family.JPG)
 
-I am a 45-year-old, happily married, father of two, Internet Systems Architect who has dedicated the majority of his days to maintaining a meaningful life and working in some way to improve the Internet.
+I am a 45-year-old, happily married, father of two, Internet Systems Architect who dedicates the majority of his waking hours to maintaining a meaningful life and working in some way to improve the Internet.
 
-From the age of 10, I grew up in an online world, dialing into text-based [BBSes](https://en.wikipedia.org/wiki/Bulletin_board_system), [CompuServe](https://en.wikipedia.org/wiki/CompuServe), and [AOL](https://aol.com).  It wasn't long until I converted an IBM PS2 and dedicated phone line into my own small-time [WWIV BBS](https://en.wikipedia.org/wiki/WWIV).  A lot of free time was spent learning everything I could about BBSes and what would soon become the public Internet.
+From the age of 10, I grew up in an online world, dialing into text-based [BBSes](https://en.wikipedia.org/wiki/Bulletin_board_system), [CompuServe](https://en.wikipedia.org/wiki/CompuServe), and [AOL](https://aol.com). It didn't take long until my parents IBM PS2 and a dedicated phone line turned into a small-time [WWIV BBS](https://en.wikipedia.org/wiki/WWIV). I spent all my free-time learning about BBSes and what would soon become the public Internet.
 
 Fast forward to 1993, a good friend of mine gave me a copy of [Slackware Linux](http://www.slackware.com/).  Linux soon became the default operating system on all my personal computers.  Over the years, I tried and used various distributions, from Debian, Gentoo, RedHat, Arch, Ubuntu, and more.  This event is the turning point that started my journey to opensource evangelist and where I focused all of my training efforts on Linux and Internet-connected services.
 
