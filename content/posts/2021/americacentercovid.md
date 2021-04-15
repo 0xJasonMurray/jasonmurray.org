@@ -8,7 +8,6 @@ categories:
 tags: 
   - covid19
   - vaccine
-  - free
 description: The America's Center in St. Louis Missouri is offering Pfizer COVID-19 vaccine to all individuals over the age of 16.
 ---
 
