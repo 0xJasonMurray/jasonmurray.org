@@ -1,7 +1,6 @@
 ---
 title: "How to receive a free COVID-19 vaccination without an appointment in the St. Louis Missouri area"
 date: 2021-04-14T16:55:52-05:00
-draft: true
 toc: false
 images:
 categories:
