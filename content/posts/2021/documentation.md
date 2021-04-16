@@ -31,11 +31,12 @@ The following post documents IP space available for internal and documentation u
 
 The following IPv4 unicast addresses are globally unique and intended for local communications. They are not expected to be routable on the global Internet.  They are routable inside of a more limited area such as a site.  They may also be routed between a limited set of sites.
 
-[RFC1918](https://tools.ietf.org/html/rfc1918):
+[RFC1918](https://tools.ietf.org/html/rfc1918) and [RFC6598](https://tools.ietf.org/html/rfc6598):
 
-- 10.0.0.0/8
-- 172.16.0.0/12
-- 192.168.0.0/16
+- 10.0.0.0/8 (RFC1918)
+- 172.16.0.0/12 (RFC1918)
+- 192.168.0.0/16 (RFC1918)
+- 100.64.0.0/10 (RFC6598)
 
 ## Private IPv6 Space
 
