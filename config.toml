@@ -119,4 +119,7 @@ enableEmoji = false  # Shorthand emojis in content files - https://gohugo.io/fun
         url = "/pages/resume"
         name = "Resume"
         weight = 4
-
+    [[menu.main]]
+        url = "/pages/contact"
+        name = "Contact"
+        weight = 5
