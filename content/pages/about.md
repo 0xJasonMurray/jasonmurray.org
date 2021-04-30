@@ -58,7 +58,7 @@ Technical Details:
 - Web Server: [Nginx](https://www.nginx.com/)
 - CDN Front End: [CloudFlare](https://www.cloudflare.com/)
 - DNS: [CloudFlare](https://www.cloudflare.com/) and [AWS Route 53](https://aws.amazon.com/route53/)
-- Statistics: https://plausible.io/jasonmurray.org
+- Statistics: http://shell.jasonmurray.org/
 - Status / Monitoring: https://status.jasonmurray.org/
 
 This website is available through the [TOR](https://www.torproject.org/) network at the following address: 
