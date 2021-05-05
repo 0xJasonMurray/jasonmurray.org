@@ -29,8 +29,9 @@ description: What am I doing right now?
 - Reading or listening to books:
   - Currently reading:
     - Being Geek
-    - Evil Geniuses: The Unmaking of America
+    - Death by Meeting: A Leadership Fable
   - Recently finished (2021):
+    - Evil Geniuses: The Unmaking of America
     - The Darkest Web (far too dark, most people don't need to know this exists on the Internet)
     - Wild
     - Dark Matter
