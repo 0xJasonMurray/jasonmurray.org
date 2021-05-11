@@ -30,6 +30,7 @@ description: What am I doing right now?
   - Currently reading:
     - Being Geek
     - Death by Meeting: A Leadership Fable
+    - Fantasyland: How America Went Haywire
   - Recently finished (2021):
     - Evil Geniuses: The Unmaking of America
     - The Darkest Web (far too dark, most people don't need to know this exists on the Internet)
