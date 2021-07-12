@@ -11,7 +11,7 @@ You can reach Jason Murray at the following locations.
 
 If you don't have an IRC client, use the Kiwi Web IRC client by clicking the link below.
 
-[Network: Freenode, User: jemurray, Channel: #0x29](https://webchat.freenode.net/?channel=#0x29)
+[Network: Libera.Chat, User: jemurray, Channel: #0x29](https://web.libera.chat?channel=#0x29)
 
 ## Email
 
