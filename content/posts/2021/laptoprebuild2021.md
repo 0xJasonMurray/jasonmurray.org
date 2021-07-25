@@ -76,6 +76,9 @@ My first new years resolution.  Rebuild my daily driver laptop.
     - coreutils
     - mtr
     - pv
+    - exiftool
+    - pstree
+    - htop
   - LastPass (macOS and plugins)
     - Allow LastPass to monitor input from keyboard
   - iTerm2
@@ -121,6 +124,7 @@ My first new years resolution.  Rebuild my daily driver laptop.
  - Postman
  - imagemagick
  - Microsoft Remote Desktop
+ - Burp Suite
 
 
 ## Post Installation Notes:
