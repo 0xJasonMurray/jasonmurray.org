@@ -24,7 +24,7 @@ import fileinput
 import re
 
 for line in fileinput.input():
-    ip = re.findall( r'(([0-9A-Fa-f]{1}[26ae]{1}[:-]([0-9A-Fa-f]{2}[:-]){2})([0-9A-Fa-f]{2}[:-]){2}[0-9A-Fa-f]{2})', line )
+    ip = re.findall( r'(([0-9A-Fa-f]{1}[26aeAE]{1}[:-]([0-9A-Fa-f]{2}[:-]){2})([0-9A-Fa-f]{2}[:-]){2}[0-9A-Fa-f]{2})', line )
     if ip:
         for i in ip:
             print(i[1])
