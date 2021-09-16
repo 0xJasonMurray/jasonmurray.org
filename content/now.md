@@ -51,4 +51,3 @@ description: What am I doing right now?
   - My hobby life revolves around Internet technology.  
   - I spend a lot of time tinkering in my [home lab](/posts/2020/homelab/).
 - Writing something for this site when the mood hits me. Although in 2022, it is much less frequent then 2021. Sorry about that, life is getting in the way.
-
