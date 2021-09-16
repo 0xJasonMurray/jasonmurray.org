@@ -30,6 +30,7 @@ description: What am I doing right now?
   - Currently reading:
     - Being Geek
     - Death by Meeting: A Leadership Fable
+    - The Code Breaker: Jennifer Doudna. Gene editing and the Future of the Human Race
   - Recently finished (2021):
     - Talking to Strangers: What We Should Know about the People We Don't Know
     - Fantasyland: How America Went Haywire
