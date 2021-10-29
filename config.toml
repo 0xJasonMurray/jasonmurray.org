@@ -51,6 +51,8 @@ enableEmoji = false  # Shorthand emojis in content files - https://gohugo.io/fun
 
   # Metadata mostly used in document's head
   description = "Personal website of Jason Murray, Internet Architect, Consultant, and Entrepreneur"
+  # description = "Systems Architect with over 25 years experience designing large scale Internet connected services. Experience includes hands on full stack engineering from the protocols, networking, servers, applications, and hardware to leading high performing teams. If it happened on the Internet in the past 25 years, I have been a part of it."
+  
   # images = [""]
   themeColor = "#494f5c"
 
