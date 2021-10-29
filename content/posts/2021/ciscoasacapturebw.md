@@ -1,7 +1,6 @@
 ---
 title: "Capturing packets on Cisco ASA 5585-SSP40 drops per flow bandwidth to 1Gb/s"
-date: 2021-07-30T15:59:45-05:00
-draft: true
+date: 2021-10-20T19:59:45-05:00
 toc: false
 images:
 categories:
@@ -11,11 +10,13 @@ tags:
   - asa
   - capture
   - networking
-description:
+description: Running packet captures on a Cisco ASA significantly reduces available bandwidth. Don't forget to turn them off when finished.
 ---
+TL;DR: Capturing packets on a Cisco ASA significantly reduces available bandwidth. Don't forget to turn them off when finished.
 
+While performing a routine network performance test, I noticed a reduction in available bandwidth on a link normally able to carry around 2.5Gb/s.
 
-`iperf3` performance testing while Cisco ASA 5585-SSP40 is running two packet `captures`:
+Using `iperf3` between two 10Gb/s capable [perfsonar](https://perfsonar.net/) nodes with an ASA 5585 SSP40 in the middle, I was only able to push around 1Gb/s:
 
 ```
 [user@perfsonar-2 ~]$ iperf3 -t 10 -i 1 -c perfsonar-1.example.com
@@ -38,24 +39,24 @@ Connecting to host perfsonar-1.example.com, port 5201
 [  5]   0.00-10.03  sec  1.17 GBytes  1.00 Gbits/sec                  receiver
 ```
 
-Validate Cisco ASA is running captures:
+Confirmed the ASA is running packet captures on the inside interface:
 
 ```
-asa-1/pri/red/act# show capture
-capture daveprinter type raw-data interface inside [Buffer Full - 524184 bytes]
+asa-1/pri/context-1/act# show capture
+capture capture-1 type raw-data interface inside [Buffer Full - 524184 bytes]
   match ip host 192.168.0.1 host 192.168.0.2
-capture betterbuiltvpn type raw-data interface inside [Capturing - 1128 bytes]
+capture capture-2 type raw-data interface inside [Capturing - 1128 bytes]
   match ip host 192.168.0.3 host 192.168.0.4
 ```
 
-Remove captures from ASA:
+Disable the captures:
 
 ```
-asa-1/red# no capture daveprinter
-asa-1/red# no capture betterbuiltvpn
+asa-1/context-1# no capture capture-1
+asa-1/context-1# no capture capture-2
 ```
 
-Per flow rate increases from 1Gb/s to 2.61Gb/s:
+Confirm with `iperf3` the transfer rates increases from 1Gb/s to 2.61Gb/s:
 
 ```
 [user@perfsonar-2 ~]$ iperf3 -t 10 -i 1 -c perfsonar-1.example.com
@@ -77,5 +78,3 @@ Connecting to host perfsonar-1.example.com, port 5201
 [  5]   0.00-10.00  sec  3.04 GBytes  2.61 Gbits/sec  1524             sender
 [  5]   0.00-10.04  sec  3.03 GBytes  2.59 Gbits/sec                  receiver
 ```
-
-
