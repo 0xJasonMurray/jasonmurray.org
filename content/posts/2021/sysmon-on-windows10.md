@@ -16,7 +16,7 @@ description: In this article, we will walk through installing and configuring Sy
 
 ## Overview
 
-Sysmon is a free Windows system services that gathers and logs telemetry information to the Windows event log. For security professionals, it provides detailed information about process creations, network connections, and changes to files which can be used to identify nefarious activities by potential threat actors.
+Sysmon is a free Windows system service that gathers and logs telemetry information to the Windows event log. For security professionals, it provides detailed information about process creations, network connections, and changes to files which can be used to identify nefarious activities by potential threat actors.
 
 In this article, we will walk through installing and configuring Sysmon on Windows 10. Using a modified copy of [SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config)'s excellent base configuration.
 
