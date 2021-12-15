@@ -5,25 +5,34 @@ description: What am I doing right now?
 ---
 
 # Work
-- Working for [Washington University in St. Louis](https://wustl.edu/) as a Network Architect:
-  - Creating a multi-year holistic networking strategy which includes networking, security, desktop tooling, servers, segmentation, and operational management. I am bringing architects and engineers together from multiple disciplines to build the next generation network.
-  - Midway through a project to move the edge routing infrastructure from St. Louis to Equinix in Chicago and Ashburn. When complete, we will have multiple 100Gb/s links to commodity, Internet2, and private peering networks. In addition to directly connecting to all the major public cloud providers.
+
+- Starting in December of 2021, I am transitioning from Network Architect to Assistant Director of Digital Forensics and Incident Response at [Washington University in St. Louis](https://wustl.edu/). 
+- I've been a part of the Network Engineering team for the past 16 years. First as the Sr. Unix Systems Engineer, where I managed hundreds of Unix (Solaris and Linux) hosts. Then Sr. Network and Systems Engineer, designing and managing thousands of networking devices. And finally Network Architect, leading strategic planning.  
+- Throughout the years, I've played a role in designing and managing the wireless, network, security, and server infrastructure. From the access layer to the Internet edge and everywhere in between, nearly every project in the Network Engineering team passed through my desk in some form.
+- It will be sad to leave the department I've called home for so long, but I am looking forward to leading and growing the Information Security Office.
+
+
 # Family
+
 - Raising 2 teenage kids:
-  - Starting the process of university selections for the oldest.
+  - Getting ready to transition my daughter to college in Chicago.
   - Helping my youngest succeed as a sophomore in high school.
   - Teaching my 15 year old to drive.
 - Supporting my wife (and family) as she battles stage 4 breast cancer:
   - Weekly chemo therapy is managing the cancer. Scans confirm it is neither going away or growing.  
 - My son and I are preparing for a 100 mile backpacking trip with the Boy Scouts at Philmont in 2022.
 # Hobbies
-- Run, walk, or strength train everyday.
-  - After a long bout with Osgood-Schlatter, I am starting to introduce running and strength training back into the daily routine.
+
+- Run, walk, or strength train everyday other day.
 - Reading or listening to books:
   - Currently reading:
-    - Death by Meeting: A Leadership Fable
-    - The First 90 Days
+    - For work:
+      - Death by Meeting: A Leadership Fable
+      - The First 90 Days
+    - For Fun:
+      - Hail Mary by Andy Weir
   - Recently finished (2021):
+    - Artificial Condition by Martha Wells
     - Being Geek
     - The Code Breaker: Jennifer Doudna. Gene editing and the Future of the Human Race
     - Talking to Strangers: What We Should Know about the People We Don't Know
