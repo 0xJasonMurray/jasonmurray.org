@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 
 title = "Jason Murray"
 
-theme = ["hermit", "plausible-hugo"]
+theme = ["hermit"]
 
 [params.plausible]
   enable = true  # Whether to enable plausible tracking
