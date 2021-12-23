@@ -191,6 +191,8 @@ This is a quick and dirty demonstration of Zeek and Splunk's ability to reliably
 
 - Include additional log sources, such a web servers, load balancers, etc.  The log4j detection within Zeek, does not capture SSL encrypted connections.
 - Tighten the Splunk zeek_conn.log query to only include connection flags of successful connections.
+- Convert hostnames in the log4j payloads to IP addresses.
+- Support IPv6.
 - Add this query to the Splunk automated alerts.
 
 Log4j is a serious flaw. It is better to get automated detection setup now and refine it later.  A few false positives are better then not detecting anything at all.
