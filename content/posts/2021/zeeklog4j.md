@@ -17,7 +17,7 @@ By using the log4j Zeek package [CVE-2021-44228](https://github.com/corelight/cv
 
 ## TL;DR
 
-This Splunk query will first query the zeek_log4j.log to determine the log4j payload IP address then take these results and query the zeek_conn.log to find any successful communication to the payload server(s):
+This Splunk one-liner will first query the zeek_log4j.log to determine the log4j payload IP address then take these results and query the zeek_conn.log to find any successful communication to the payload server(s):
 
 ```text
 index=zeek sourcetype=zeek_conn [search index=zeek sourcetype=zeek_log4j | dedup target_host | fields target_host | rename target_host as id.resp_h]

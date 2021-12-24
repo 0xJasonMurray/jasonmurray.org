@@ -179,7 +179,7 @@ Look for answers here: http://docs.splunk.com
 The Splunk web interface is at http://splunk:8000
 ```
 
-Enable the Splunk log forwarder receiver.  This enable remote [Universal Forwarders](https://www.splunk.com/en_us/download/universal-forwarder.html) to send their logs into Splunk:
+Enable Splunk to receive remote log messages from the [Universal Forwarders](https://www.splunk.com/en_us/download/universal-forwarder.html):
 
 ```text
 sudo ./splunk enable listen 9997 -auth jemurray:mypassword
