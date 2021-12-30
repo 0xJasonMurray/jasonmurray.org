@@ -1,5 +1,5 @@
 ---
-title: "How to View a Log4j Payload using ldapsearch"
+title: "How to View a Log4j Payload Using ldapsearch"
 date: 2021-12-30T12:35:38-06:00
 toc: false
 images:
