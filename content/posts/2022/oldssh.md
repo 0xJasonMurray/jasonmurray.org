@@ -61,9 +61,12 @@ Host host2.example.com
 Host *.example.com
   KexAlgorithms diffie-hellman-group1-sha1
   Ciphers aes256-cbc
+
+# Multiple KexAlgorithms and Cipers, separted by commas, can be specified as needed
+Host *.example.org
+  KexAlgorithms diffie-hellman-group1-sha1,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1
+  Ciphers aes128-cbc,3des-cbc,aes192-cbc,aes256-cbc
 ```
-
-
 
 ## Important Notes
 
