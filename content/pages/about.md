@@ -8,9 +8,9 @@ tags: [about]
 
 ### Me:
 
-![family](/images/family.JPG)
+[![Image of the Murray Family ](/images/2022-04-15-16-22-59.png)](/images/2022-04-15-16-22-59.png)
 
-I am a 45-year-old, happily married, father of two, Internet Systems Architect who dedicates the majority of his waking hours to maintaining a meaningful life and working in some way to improve the Internet.
+I am a 47-year-old, happily married, father of two, security leader, dedicated to maintaining a meaningful life and working in some way to improve the Internet.
 
 From the age of 10, I grew up in an online world, dialing into text-based [BBSes](https://en.wikipedia.org/wiki/Bulletin_board_system), [CompuServe](https://en.wikipedia.org/wiki/CompuServe), and [AOL](https://aol.com). It didn't take long until my parents IBM PS2 and a dedicated phone line turned into a small-time [WWIV BBS](https://en.wikipedia.org/wiki/WWIV). I spent all my free-time learning about BBSes and what would soon become the public Internet.
 
