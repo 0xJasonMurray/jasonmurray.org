@@ -7,18 +7,14 @@ description: What am I doing right now?
 # Work
 
 - In Feburary of 2022, I took over as the Assistant Director and Architect of Digital Forensics and Incident Response at [Washington University in St. Louis](https://wustl.edu/). I now lead a team of talented Security Analysts to defend the university from cyber security villains!
-- I'm hiring a Security Analyst III to join my team.  If you interested check out the job description: https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Medical-Campus/Information-Security-Analyst-III---WUIT---Digital-Forensics-and-Incident-Response_JR65729
-- Enrolled in a Technical Leadership certification program at WashU: https://tlcenter.wustl.edu/leadership-series-interest-form
-
 
 # Family
 
 - Raising 2 teenage kids:
-  - Getting ready to transition my daughter to college in Chicago.
-  - Helping my youngest succeed as a sophomore in high school.
+  - Wrapping up the final details before my daughter ships off to college in August of 2022.
+  - Helping my youngest succeed as a junior in high school.
 - Supporting my wife (and family) as she battles stage 4 breast cancer:
-  - Weekly chemo therapy is managing the cancer. Scans confirm it is neither going away or growing.  
-- My son and I are preparing for a 100 mile backpacking trip with the Boy Scouts at Philmont in 2022.
+  - Weekly chemo therapy is managing the cancer. Scans confirm it is neither going away or growing.
 # Hobbies
 
 - Run, walk, or strength train everyday other day.
@@ -26,11 +22,12 @@ description: What am I doing right now?
   - Currently reading:
     - For work:
       - Death by Meeting: A Leadership Fable
-      - The First 90 Days
     - For Fun:
       - Moneyland: The Inside Story of the Crooks and Kleptocrats Who Rule the World
+    - Educational:
+      - The 1619 Project: A New Origin Story
   - Recently finished (2022):
-    - Nothing yet, I am too busy with my family and new job.
+    - The First 90 Days
 
 - Nerdy stuff:
   - My hobby life revolves around Internet technology and system security.  
