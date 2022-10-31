@@ -13,7 +13,7 @@ description:
 
 ## Overview
 
-I've replaced all my home lab VMware hypervisors with Proxmox. While we use `vmware` at work, and gaining experience in this environment is good. I've found the "free" tier of `vmware` limiting and difficult to manage. Proxmox has been a pleasure to use, does not have hardware resources limits, and is a easy to keep updated. 
+I've replaced all my home lab VMware hypervisors with Proxmox. While we use `vmware` at work, and gaining experience in this environment is good. I've found the "free" tier of `vmware` for a home lab limiting and difficult to manage. Proxmox has been a pleasure to use, does not have hardware resources limits, and is a easy to keep updated. 
 
 ## Technical Details
 
