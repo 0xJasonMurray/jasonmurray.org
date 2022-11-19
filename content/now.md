@@ -6,16 +6,15 @@ description: What am I doing right now?
 
 # Work
 
-- In Feburary of 2022, I took over as the Assistant Director and Architect of Digital Forensics and Incident Response at [Washington University in St. Louis](https://wustl.edu/). I now lead a team of talented Security Analysts to defend the university from cyber security villains!
+I am the Assistant Director and Architect of Digital Forensics and Incident Response at [Washington University in St. Louis](https://wustl.edu/). I lead a team of talented Security Analysts to defend the university from cyber security villains!
 
 # Family
 
 - Raising 2 teenage kids:
-  - Wrapping up the final details before my daughter ships off to college in August of 2022.
+  - Supporting my daughter as she works her way through freshman year at university.
   - Helping my youngest succeed as a junior in high school.
-- Supporting my wife (and family) as she battles stage 4 breast cancer:
-  - Weekly chemo therapy is managing the cancer. Scans confirm it is neither going away or growing.
-# Hobbies
+- Supporting my wife and family as she lives through breast cancer.
+- # Hobbies
 
 - Run, walk, or strength train everyday other day.
 - Reading or listening to books:
@@ -32,4 +31,4 @@ description: What am I doing right now?
 - Nerdy stuff:
   - My hobby life revolves around Internet technology and system security.  
   - I spend a lot of time tinkering in my [home lab](/posts/2020/homelab/).
-- Writing something for this site when the mood hits me. Although it is much less frequent then previous years. Sorry about that, life is getting in the way.
+- Writing something for this site when the mood hits me. Although it is much less frequent then previous years.
