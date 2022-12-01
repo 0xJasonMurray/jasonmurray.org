@@ -26,6 +26,7 @@ This is the first post, buckle up, it will be a long one.
 - From Friday 11/25/22 to Monday 11/29/22 - the headaches and nausea have been getting progressively worse. None of the medication (including Morphine) were controlling the symptoms. We were up every hour redosing pain meds and dealing with the nausea.
 - After talking with hospice on Monday 11/29/22, we determined and Jami agreed, we should transfer her from home to the Evelyn House Hospice facility to get the pain under control. The goal is to find the proper combination and doses of medication that will keep her comfortable. 
 - Once a medical plan is finalized and she is stable, we will transfer her back home.
+
 Now you know the backstory of how we got to this point.
 
 
