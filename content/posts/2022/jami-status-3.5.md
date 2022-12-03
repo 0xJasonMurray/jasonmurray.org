@@ -35,7 +35,7 @@ I've asked you all to send me stories that I could read to Jami and you answered
 
 One day this past year Jami and I were driving home while having a conversation about the commitment we put into raising our kids. At one point she said, "We Made a Family".  That quote stuck with me since.
 
-To remember Jami and her dedication to our family and friends, I registered the domain name https://wemadafamily.us/ and created a photo album with pictures of her.
+To remember Jami and her dedication to our family and friends, I registered the domain name https://wemadeafamily.us/ and created a photo album with pictures of her.
 
 
 **More Homework**: This is where you come in.
