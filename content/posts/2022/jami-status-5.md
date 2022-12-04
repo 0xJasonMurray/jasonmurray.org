@@ -16,6 +16,7 @@ Today's update is coming out early because I don't know how much more time we ha
 
 - Jami continues to decline quickly.
 - We are probably in the hours to days time range.
+- She is not moving anymore.
 - Fluid is building up in her lungs, but it is manageable.
 - Early this morning her breathing was labored and heavy.
 - This afternoon her breathing less labored, but still heavy.
