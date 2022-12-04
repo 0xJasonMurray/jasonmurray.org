@@ -1,5 +1,5 @@
 ---
-title: "How's Jami Doing: Daily Update - Issue #5 - 12/2/2022"
+title: "How's Jami Doing: Daily Update - Issue #5 - 12/4/2022"
 date: 2022-12-04T16:04:45-06:00
 toc: false
 images:
