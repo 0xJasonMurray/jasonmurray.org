@@ -1,7 +1,6 @@
 ---
 title: "The Final Update Until We Celebrate Life"
 date: 2022-12-04T22:25:00-06:00
-draft: true
 toc: false
 images:
 categories:
