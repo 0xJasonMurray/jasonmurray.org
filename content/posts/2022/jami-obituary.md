@@ -128,6 +128,7 @@ Murray as the memorial recipient.
 - Date: Dec 17, 2022
 - Visitation: 9:00AM - 12:00PM CST
 - Memorial Service: 12:00PM - 12:45PM
-- Burial: 1:00PM - TBD
+- Burial: 1:00PM - 1:30PM
+- Lunch: 1:30PM - TBD
 - Location: Zion Lutheran Harvester Church
 - Address: 3866 S. Old Hwy 94, St. Charles, MO 63304
