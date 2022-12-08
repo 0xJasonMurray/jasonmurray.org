@@ -1,7 +1,6 @@
 ---
 title: "Jami's Obituary"
 date: 2022-12-08T13:58:33-06:00
-draft: true
 toc: false
 images:
 categories:
