@@ -11,6 +11,8 @@ description: "Jami's Obituary"
 ---
 ## Obituary
 
+[![Image of picture of Jami Murray ](/images/2022-12-08-14-35-41.png)](/images/2022-12-08-14-35-41.png)
+
 With heavy hearts, we announce the death of Jami Marie Murray, who
 passed away from metastatic breast cancer. The day she finally freed
 herself from cancer was the day Jesus welcomed her into heaven. She was
