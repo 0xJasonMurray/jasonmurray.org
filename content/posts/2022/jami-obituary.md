@@ -7,7 +7,7 @@ categories:
   - personal
 tags: 
   - cancerupdate
-description:
+description: "Jami's Obituary"
 ---
 
 ## Obituary
