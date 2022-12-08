@@ -9,7 +9,6 @@ tags:
   - cancerupdate
 description: "Jami's Obituary"
 ---
-
 ## Obituary
 
 With heavy hearts, we announce the death of Jami Marie Murray, who
@@ -122,3 +121,13 @@ Evelyn's Hospice House. Donations can be made online at:
 <https://bit.ly/3BmNoLM> (<https://www.bjchospice.org/support-hospice>).
 When donating online, direct your gift to Evelyn's House and enter Jami
 Murray as the memorial recipient.
+
+
+## Celebration of Life Details
+
+- Date: Dec 17, 2022
+- Visitation: 9:00AM - 12:00PM CST
+- Memorial Service: 12:00PM - 12:45PM
+- Burial: 1:00PM - TBD
+- Location: Zion Lutheran Harvester Church
+- Address: 3866 S. Old Hwy 94, St. Charles, MO 63304
