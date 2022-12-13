@@ -8,7 +8,7 @@ categories:
 tags: 
   - jami
   - cancerupdate
-description: "Failure Is Not an Option"
+description: "Bad Behavior Is Not an Option"
 ---
 
 I asked Jami to talk with and write a letter to our kids that states, "Death is not an excuse for failure or bad behavior..." - This is an excerpt from her journal:
