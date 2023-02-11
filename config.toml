@@ -58,7 +58,7 @@ enableEmoji = false  # Shorthand emojis in content files - https://gohugo.io/fun
 
   
   # homeSubtitle = "Internet Architect, Consultant, and Entrepreneur"
-  homeSubtitle = "Husband, Father, Assistant Director, Architect, and Generally Nerdy Person"
+  homeSubtitle = "Young Widower, Father, Assistant Director, Architect, and Generally Nerdy Person"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
