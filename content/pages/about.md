@@ -10,7 +10,7 @@ tags: [about]
 
 [![Image of the Murray Family ](/images/2022-04-15-16-22-59.png)](/images/2022-04-15-16-22-59.png)
 
-I am a 47-year-old, happily married, father of two, security leader, dedicated to maintaining a meaningful life and working in some way to improve the Internet.
+I am a 48-year-old, young widower, father of two, security leader, who is dedicated to living a meaningful life, working in some way to improve the Internet, and making the world a little bit better than I left it.
 
 From the age of 10, I grew up in an online world, dialing into text-based [BBSes](https://en.wikipedia.org/wiki/Bulletin_board_system), [CompuServe](https://en.wikipedia.org/wiki/CompuServe), and [AOL](https://aol.com). It didn't take long until my parents IBM PS2 and a dedicated phone line turned into a small-time [WWIV BBS](https://en.wikipedia.org/wiki/WWIV). I spent all my free-time learning about BBSes and what would soon become the public Internet.
 
@@ -34,9 +34,9 @@ My off-hours are spent with my family enjoying life, raising my kids to be kind,
 
 ## About the writings:
 
-After working professionally in the technology field since 1995, this is my way of [bestowing](/posts/) the wisdom others have shared with me.  As well as maintaining a central repository to document projects, tools, and topics that interest me.  
+After working professionally in the technology field since 1995, this is my way of [sharing](/posts/) the wisdom others have taught me.  In addition, it serves as a central repository to document projects, tools, and topics I am interested in.  
 
-I model writings on this site after the “Today I Learned” concept, which are simple and to-the-point posts.  Some days, it will be a mere command and its output, other days a more in-depth analysis on a particular topic.
+I model writings on this site after the “Today I Learned” concept, which are simple and to-the-point posts.  Some days, it will be a quick command and its output, other days a more in-depth analysis on a particular topic.
 
 
 
