@@ -7,11 +7,11 @@ description: What am I doing right now?
 # Family
 
   - Supporting my daughter as she pursues her studies at college.
-  - Supporting my son through his senior year in high school and college application process.
+  - Supporting my son through his senior year in high school and getting him ready to attend university in Chicago in 2024!
 
 # Personal Life
 
-- Focusing on building 2.0 of my new life after my wife passed away.
+- Living my best life.
 - Finding my people.
 - Creating new experiences.
 - Loving Life. 
