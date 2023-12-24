@@ -20,7 +20,7 @@ In 1995 a small startup company, [Concentric Research Information Systems](http:
 
 I currently spend my professional days, working for [Washington University in St. Louis](https://wustl.edu) as the Assistant Director and Architect of Digital Forensics and Incident Response. I lead a team of talented Security Analysts to defend the university from cyber security villains at one of the premier private universities in the world.  I am grateful for the opportunity to support some of the most distinguished faculty, researchers, and doctors in the world.
 
-My off-hours are spent with my family enjoying life, raising my kids to be kind - compassionate and well educated, exploring the world, constantly evolving the next version of myself, backpacking and running local Missouri trails, and volunteering where I can to make a difference in peoples lives.
+My off-hours are spent with my family and friends enjoying life, raising my kids to be kind - compassionate and well educated, exploring the world, constantly evolving the next version of myself, backpacking and running local Missouri trails, and volunteering where I can to make a difference in peoples lives.
 
 ### What I believe in:
 
