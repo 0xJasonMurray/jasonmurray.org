@@ -8,9 +8,9 @@ tags: [about]
 
 ### Me:
 
-[![Image of the Murray Family ](/images/2022-04-15-16-22-59.png)](/images/2022-04-15-16-22-59.png)
+[![Image of Jason Murray ](/images/2023-12-23-22-55-56.png)](/images/2023-12-23-22-55-56.png)
 
-I am a 48-year-old, young widower, father of two, security leader, who is dedicated to living a meaningful life, working in some way to improve the Internet, and making the world a little bit better than I left it.
+I am a 48-year-old widower, father of two, technology pioneer, and lover of life.  Everyday I work in some way to improve the lives of the people around me, the Internet, cyber security, and make the world a little bit better than I left it.
 
 From the age of 10, I grew up in an online world, dialing into text-based [BBSes](https://en.wikipedia.org/wiki/Bulletin_board_system), [CompuServe](https://en.wikipedia.org/wiki/CompuServe), and [AOL](https://aol.com). It didn't take long until my parents IBM PS2 and a dedicated phone line turned into a small-time [WWIV BBS](https://en.wikipedia.org/wiki/WWIV). I spent all my free-time learning about BBSes and what would soon become the public Internet.
 
@@ -20,16 +20,18 @@ In 1995 a small startup company, [Concentric Research Information Systems](http:
 
 I currently spend my professional days, working for [Washington University in St. Louis](https://wustl.edu) as the Assistant Director and Architect of Digital Forensics and Incident Response. I lead a team of talented Security Analysts to defend the university from cyber security villains at one of the premier private universities in the world.  I am grateful for the opportunity to support some of the most distinguished faculty, researchers, and doctors in the world.
 
-My off-hours are spent with my family enjoying life, raising my kids to be kind, compassionate and well educated, traveling as much as we can, volunteering for the Boy Scouts as an assistant scoutmaster, backpacking and running local Missouri trails, and helping out at my kids' school managing their IT infrastructure.
+My off-hours are spent with my family enjoying life, raising my kids to be kind - compassionate and well educated, exploring the world, constantly evolving the next version of myself, backpacking and running local Missouri trails, and volunteering where I can to make a difference in peoples lives.
 
 ### What I believe in:
 
+- Empathy: Listen, recognize, respect, understand, and share the feelings of those around you.
 - Science: When a majority of experts in their fields state facts, listen and trust them.
 - Reason: Evaluate everything with logic based on education, experiences, and reliable science.
 - Humanitarianism: We live in a world that depends on our neighbors, be kind to one another.
 - Open Standards: A well-connected world requires open standards to inter-operate together.
 - Education: An educated society makes better decisions.
 - Health Care for All: The healthcare system should work for all people.
+- Women's Rights: All women are entitled to the same human rights as a man. (Yes, this include sexual and reproductive rights)
 - Environment: There is only one planet, take care of it.
 
 ## About the writings:
