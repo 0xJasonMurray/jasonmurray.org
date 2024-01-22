@@ -11,19 +11,14 @@ Jason Murray can be reached at the following locations.
 
 For asynchronous communication, please use the email address: 
 
-jemurray@zweck.net
+web2024@zweck.net
 
 ## Social
 
-- [Twitter](https://twitter.com/0xJasonMurray/)
+- [Twitter / X](https://twitter.com/0xJasonMurray/)
 - [LinkedIn](https://www.linkedin.com/in/jemurray/)
 - [Facebook](https://www.facebook.com/duxklr)
-
-## IRC
-
-For real-time communication, please use channel `#0x29` or user `jemurray` on the `libera.chat` IRC server. Clicking the link below opens the Libera chat web client:
-
-[Network: Libera.Chat, User: jemurray, Channel: #0x29](https://web.libera.chat?channel=#0x29)
+- [Instagram](https://www.instagram.com/0xjasonmurray/)
 
 ## Secure Communication
 
