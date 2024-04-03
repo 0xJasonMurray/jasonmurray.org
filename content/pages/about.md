@@ -10,7 +10,7 @@ tags: [about]
 
 [![Image of Jason Murray ](/images/2023-12-23-22-55-56.png)](/images/2023-12-23-22-55-56.png)
 
-I am a 48-year-old widower, father of two, technology pioneer, and lover of life.  Everyday I work in some way to improve the lives of the people around me, the Internet, cyber security, and make the world a little bit better than I left it.
+I am a widower, father of two, technology pioneer, and lover of life.  Everyday I work in some way to improve the lives of the people around me, the Internet, cyber security, and make the world a little bit better than I left it.
 
 From the age of 10, I grew up in an online world, dialing into text-based [BBSes](https://en.wikipedia.org/wiki/Bulletin_board_system), [CompuServe](https://en.wikipedia.org/wiki/CompuServe), and [AOL](https://aol.com). It didn't take long until my parents IBM PS2 and a dedicated phone line turned into a small-time [WWIV BBS](https://en.wikipedia.org/wiki/WWIV). I spent all my free-time learning about BBSes and what would soon become the public Internet.
 
