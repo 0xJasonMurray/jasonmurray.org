@@ -1,6 +1,6 @@
 ---
 title: "Contact Information"
-date: 2021-04-27T18:05:35-05:00
+date: 2025-02-19T18:05:35-05:00
 comments: false
 images:
 ---
@@ -11,13 +11,14 @@ Jason Murray can be reached at the following locations.
 
 For asynchronous communication, please use the email address: 
 
-web2024@zweck.net
+web2025@zweck.net
 
 ## Social
 
+- [Bluesky](https://bsky.app/profile/jasonmurray.org)
 - [Twitter / X](https://twitter.com/0xJasonMurray/)
 - [LinkedIn](https://www.linkedin.com/in/jemurray/)
-- [Facebook](https://www.facebook.com/duxklr)
+- [Facebook](https://www.facebook.com/0xJasonMurray)
 - [Instagram](https://www.instagram.com/0xjasonmurray/)
 
 ## Secure Communication
