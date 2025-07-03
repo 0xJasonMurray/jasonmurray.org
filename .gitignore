@@ -1,0 +1,10 @@
+# Generated HTML
+.DS_Store
+.DS_Store/*
+*/.DS_Store
+content/posts/drafts/*
+content/posts/ideas/*
+content/posts/cancer/*
+content/posts/loap/*
+public/*
+resources

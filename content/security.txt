@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:jemurray@zweck.net
+Expires: 2023-11-09T21:32:00.000Z
+Encryption: https://jasonmurray.org/pgp.txt
+Preferred-Languages: en
+Canonical: https://jasonmurray.org/security.txt
+-----BEGIN PGP SIGNATURE-----
+Comment: Verify keys at https://jasonmurray.org/
+
+iHUEARYKAB0WIQQel9fD+Z5dtui0CZZ3r4XuxYaxnAUCYYrqMwAKCRB3r4XuxYax
+nIZKAPkBWKT32knmuhhnQhqgJNFEc5hmT3WJ0LB6BRtV4KsnXgD/TEc45kQwbJZR
+haBoZq0+P4NiR9UGVZpSqITz9CInHwU=
+=h84R
+-----END PGP SIGNATURE-----

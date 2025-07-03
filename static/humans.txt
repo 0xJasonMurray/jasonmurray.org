@@ -1,0 +1,37 @@
+                            
+/* TEAM */
+
+Name: Jason E. Murray
+Email: jemurray@zweck.net
+URL: https://jasonmurray.org/ (but you already know that)
+Twitter: 0xJasonMurray
+Location: St. Louis, Missouri
+
+                 
+/* THANKS */
+
+There are many people who coached and mentored me over the years.
+I love you all, I would not be the person I am today without you.
+
+- Mom
+- Dad
+- Jami
+- Allison
+- Elliot
+- Peter
+- David
+- Chris
+- Joey
+- Joe
+
+/* SITE */
+
+Last update: 2020/07/22
+Components: Hugo
+Software: vim
+
+/* CAREER */
+
+While I am not looking, if you are nerdy enough to have found this and looking for another nerdy person on your team, contact me: jemurray@zweck.net - Remote working opportunities only.
+
+

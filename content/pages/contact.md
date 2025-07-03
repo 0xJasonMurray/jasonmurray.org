@@ -1,0 +1,49 @@
+---
+title: "Contact Information"
+date: 2025-02-18T18:05:35-05:00
+comments: false
+images:
+---
+
+Jason Murray can be reached at the following locations.
+
+## Email
+
+For asynchronous communication, please use the email address: 
+
+web2025@zweck.net
+
+## Social
+
+- [Bluesky](https://bsky.app/profile/jasonmurray.org)
+- [Twitter / X](https://twitter.com/0xJasonMurray/)
+- [LinkedIn](https://www.linkedin.com/in/jemurray/)
+- [Facebook](https://www.facebook.com/0xJasonMurray)
+- [Instagram](https://www.instagram.com/0xjasonmurray/)
+
+## Secure Communication
+
+Use the following [PGP key](https://jasonmurray.org/pgp.txt):
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: Verify keys at https://jasonmurray.org/
+
+mDMEYYrf5BYJKwYBBAHaRw8BAQdAFdfJsPWFMKWa916NAHLmKAmDHZ6cxZNh9oMw
+vt8cO6a0P0phc29uIEUuIE11cnJheSAoaHR0cHM6Ly9qYXNvbm11cnJheS5vcmcv
+KSA8amVtdXJyYXlAendlY2submV0PoiaBBMWCgBCFiEEHpfXw/meXbbotAmWd6+F
+7sWGsZwFAmGK3+QCGwMFCQWjmoAFCwkIBwIDIgIBBhUKCQgLAgQWAgMBAh4HAheA
+AAoJEHevhe7FhrGc6DIBAPuN2va5c46QSWUK/ytyhijJhhtrIqLYiSW1SC21o0Br
+AQDmD+5hwJSj1j3zgQ0hNURfq2sg5imLyYYqV/uwnA/uB7Q/SmFzb24gRS4gTXVy
+cmF5IChodHRwczovL2phc29ubXVycmF5Lm9yZy8pIDxqZW11cnJheUB3dXN0bC5l
+ZHU+iJoEExYKAEIWIQQel9fD+Z5dtui0CZZ3r4XuxYaxnAUCYYrlJAIbAwUJBaOa
+gAULCQgHAgMiAgEGFQoJCAsCBBYCAwECHgcCF4AACgkQd6+F7sWGsZzXWQEAsVCQ
+eYg9M9Lk0YQRs4BffsNnPzcmU+G0i3bWbc49zqQA/2amb/+9DI6Y1j8l51GmvRZc
+p04tmHQMLqNWgqlt/u4LuDgEYYrf5BIKKwYBBAGXVQEFAQEHQBDL3/NWLAavUU/Y
+gu0aY8TdSD9piwxerT8WYAlUH/tbAwEIB4h+BBgWCgAmFiEEHpfXw/meXbbotAmW
+d6+F7sWGsZwFAmGK3+QCGwwFCQWjmoAACgkQd6+F7sWGsZyJqwEAvkREXNrDqbdB
+UTFweeRSFb03hzsviEdYjsxa6kgOMtUA/iJe+G1tyacBwNr+mOCGvYr3YtzugAzm
+1ruWeog4qFwJ
+=/TCe
+-----END PGP PUBLIC KEY BLOCK-----
+```

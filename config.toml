@@ -1,0 +1,133 @@
+# FQDN basename
+baseURL = "https://jasonmurray.org/"
+# FQDN breaks .onion URL, but no FQDN breaks RSS and sitemap URLS.  Commented out.
+# Very few, if any, people use the .onion URL.
+# baseURL = "/"
+
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+title = "Jason Murray"
+
+theme = ["hermit-V2"]
+
+[params.plausible]
+  enable = true  # Whether to enable plausible tracking
+  domain = "jasonmurray.org"  # Plausible "domain" name/id in your dashboard
+  public_dashboard = true
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+# enableGitInfo = true
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+enableEmoji = false  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+
+# Removed Google and Disqus for privacy reasons
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "jasonmurray-org"
+
+[author]
+  name = "Jason Murray"
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Personal website of Jason Murray, Internet Architect, Consultant, and Entrepreneur"
+  # description = "Systems Architect with over 25 years experience designing large scale Internet connected services. Experience includes hands on full stack engineering from the protocols, networking, servers, applications, and hardware to leading high performing teams. If it happened on the Internet in the past 25 years, I have been a part of it."
+  
+  # images = [""]
+  themeColor = "#494f5c"
+
+  
+  # homeSubtitle = "Internet Architect, Consultant, and Entrepreneur"
+  homeSubtitle = "Creative, Explorer, Father, InfoSec Director, Technical Architect, and Generally Nerdy Person"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  # bgImg = ""  # Homepage background-image URL
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = "https://github.com/username/repository/commit/"
+
+  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+
+  relatedPosts = false  # Add a related content section to all single posts page
+
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
+  
+  # Add custom css
+  # customCSS = ["css/foo.css", "css/bar.css"]
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+    [[params.social]]
+        url = "mailto:jemurray@zweck.net"
+        name = "email"
+        weight = 1
+
+    [[params.social]]
+        url = "http://keys.gnupg.net/pks/lookup?search=0x6E8A4FCDF2F9138C&fingerprint=on&op=index"
+        name = "email"
+        weight = 2
+
+    [[params.social]]
+        url = "https://github.com/0xJasonMurray/"
+        name = "github"
+        weight = 3
+
+    [[params.social]]
+        url = "https://twitter.com/0xJasonMurray/"
+        name = "twitter"
+        weight = 4
+
+    [[params.social]]
+        url = "https://www.linkedin.com/in/jemurray/"
+        name = "linkedin"
+        weight = 5
+
+
+
+
+# Main page and title bar configuration
+[menu]
+    [[menu.main]]
+        url = "/pages/about/"
+        name = "About"
+        weight = 1
+    [[menu.main]]
+        url = "/posts/"
+        name = "Blog"
+        weight = 2
+    [[menu.main]]
+        url = "https://photos.app.goo.gl/ynALxdrR82SxpbwF6"
+        name = "Photos"
+        weight = 2
+    [[menu.main]]
+        url = "/now/"
+        name = "Now"
+        weight = 3
+    [[menu.main]]
+        url = "/pages/resume"
+        name = "Resume"
+        weight = 4
+    [[menu.main]]
+        url = "/pages/contact"
+        name = "Contact"
+        weight = 5
