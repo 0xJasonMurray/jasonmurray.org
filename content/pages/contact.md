@@ -18,7 +18,7 @@ web2025@zweck.net
 - [Bluesky](https://bsky.app/profile/jasonmurray.org)
 - [Twitter / X](https://twitter.com/0xJasonMurray/)
 - [LinkedIn](https://www.linkedin.com/in/jemurray/)
-- [Facebook](https://www.facebook.com/0xJasonMurray)
+- [~~Facebook~~](https://www.facebook.com/0xJasonMurray)
 - [Instagram](https://www.instagram.com/0xjasonmurray/)
 
 ## Secure Communication
